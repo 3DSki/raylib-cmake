@@ -49,7 +49,7 @@ option(USE_JOLTPHYSICS "Use Jolt Physics 3D" OFF)
 ## supported windows and linux
 
 ## Clone the repository
-git clone https://github.com/BrettWilsonBDW/raylib-cmake.git
+git clone https://github.com/BrettWilsonDev/raylib-cmake.git
 
 ## Navigate to the project directory
 cd raylib-cmake
