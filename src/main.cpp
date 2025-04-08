@@ -43,7 +43,7 @@ GameLoop::GameLoop()
     SetTargetFPS(60);                                                            // do not set fps when used in browser for better web performance
 #endif
 
-    InitWindow(screenWidth, screenHeight, "Game name");
+    InitWindow(screenWidth, screenHeight, "My First App");
     Run();
 }
 
